@@ -1,0 +1,11 @@
+# Treat binary assets as binary so git never tries to diff/merge them as text.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ttf binary
+*.otf binary
+*.jks binary
+*.p8 binary
+*.p12 binary
+*.mobileprovision binary
